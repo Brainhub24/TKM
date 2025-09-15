@@ -1,6 +1,6 @@
 #!/bin/bash
 # ──────────────────────────────────────────────────────────────────────
-# 🚨 DRUNKEN CHIEF MASTER - TDM v2.666 🚨
+# 🚨 DRUNKEN CHIEF MASTER - TKM.sh v2.666 🚨
 # "THREAD KILLER MAXIMA" EDITION - THE FORK BOMB WITH A SOUL (AND WHISKEY)
 #
 # AUTHOR:     The Drunken Chief Master (TDM) - Supreme Hat of the Pub Realm
