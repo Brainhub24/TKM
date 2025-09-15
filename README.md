@@ -1,2 +1,2 @@
-# TKM-The-Killing-Machine
-A test project created by Brainhub24 to penetrate other stupid systems
+# TKM | [T]he [K]illing [M]Machine
+A test project created by Brainhub24 to penetrate other stupid systems easly
